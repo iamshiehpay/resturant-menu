@@ -1,5 +1,5 @@
 {
-  "name": "gericht",
+  "name": "restaurant",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,5 +43,6 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0"
+
   }
 }
